@@ -1,0 +1,16 @@
+form{
+    width: 98%;
+    height: 100%;
+    margin: 8px 8px
+}
+
+.form-group-bottom {
+    margin-bottom: 8px;
+}
+.form-control-padding{
+    padding: 5px;
+}
+
+.button-width{
+    width: 100px;
+}
